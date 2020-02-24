@@ -18,7 +18,7 @@ public class problem1 {
 			}
 
 		}
-		System.out.println("The ant fell for " + tries + " tries ");
+		System.out.println("The ant fell for " + tries + " times ");
 	}
 
 }
