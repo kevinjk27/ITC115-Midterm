@@ -13,7 +13,7 @@ public class problem1 {
 			if (number == 0) {// go down
 				steps = 0;
 				tries++;
-			} else {
+			} else {//go up
 				steps++;
 			}
 
